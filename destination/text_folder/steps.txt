@@ -1,0 +1,12 @@
+steps:
+Import os and shutil modules
+
+Create Folders for categorization
+
+Set source directory and set folders directory
+
+Look for files in current directory
+
+Create several file format list
+
+Get file extensions and mov them to destination. Ignore 'app.py' file
